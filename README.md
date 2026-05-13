@@ -22,6 +22,7 @@ After installing, the skill is available as a slash command in Claude Code (e.g.
 
 | Skill | Category | Description |
 |-------|----------|-------------|
+| [explain-simply](productivity/explain-simply/) | productivity | Explain any document, concept, or text in plain everyday language with analogies — no background knowledge required. |
 | [summarize](productivity/summarize/) | productivity | Summarize the current session into a structured handoff document for resuming later or passing to another LLM. |
 
 ## Adding a skill
