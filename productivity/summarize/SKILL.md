@@ -1,6 +1,6 @@
 ---
 name: summarize
-description: Summarize the current session into a structured handoff document. Use this skill whenever the user wants to: save their progress, wrap up a session, hand off to another LLM or model, pause and resume later, capture what was learned, or get a session recap. Trigger on phrases like "summarize this session", "save my progress", "write a handoff", "I need to stop here", "capture the context", "what did we do today", "session summary", "save for later", or any time the user is clearly wrapping up or transitioning away from the current work.
+description: Summarize the current session into a structured handoff document. Use this skill whenever the user wants to save their progress, wrap up a session, hand off to another LLM or model, pause and resume later, capture what was learned, or get a session recap. Trigger on phrases like "summarize this session", "save my progress", "write a handoff", "I need to stop here", "capture the context", "what did we do today", "session summary", "save for later", or any time the user is clearly wrapping up or transitioning away from the current work.
 ---
 
 # Summarize Session
