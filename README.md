@@ -22,6 +22,7 @@ After installing, the skill is available as a slash command in Claude Code (e.g.
 
 | Skill | Category | Description |
 |-------|----------|-------------|
+| [fable5-scaffold](engineering/fable5-scaffold/) | engineering | Generate a production-ready system prompt and scaffolding checklist for a Claude Fable 5 or Mythos 5 deployment — covers effort levels, long-run behavior, parallel subagents, memory, boundary-setting, progress grounding, and communication style. |
 | [swe-audit](engineering/swe-audit/) | engineering | Audit code for SWE best practices — DRY, SOLID, KISS/YAGNI, naming, magic numbers, complexity, error handling, separation of concerns, Law of Demeter, comments, testing, logging, code smells, and state/mutability. Targeted and full-sweep modes. |
 | [deep-dive](productivity/deep-dive/) | productivity | Interview the user about their current task to surface goals, assumptions, and risks — building a clear shared plan before diving in. |
 | [explain-simply](productivity/explain-simply/) | productivity | Explain any document, concept, or text in plain everyday language with analogies — no background knowledge required. |
