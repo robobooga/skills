@@ -1,6 +1,6 @@
 ---
 name: design-craft
-description: Build and refine interfaces with real taste — distilled from craft-design philosophy, product UI systems, brand/marketing design, and UX/accessibility best practice. Use when designing, building, reviewing, or polishing any UI: dashboards, apps, landing pages, components, forms, settings, onboarding, empty states. Covers visual direction, anti-AI-slop discipline, design tokens, surfaces/layering, typography, color, motion, UX copy, accessibility, and the validation gates that catch generic output before it ships. Not for backend-only work.
+description: Build and refine interfaces with real taste — distilled from craft-design philosophy, product UI systems, brand/marketing design, and UX/accessibility best practice. Use when designing, building, reviewing, or polishing any UI — dashboards, apps, landing pages, components, forms, settings, onboarding, empty states. Covers visual direction, anti-AI-slop discipline, design tokens, surfaces/layering, typography, color, motion, UX copy, accessibility, and the validation gates that catch generic output before it ships. Not for backend-only work.
 ---
 
 # Design Craft
