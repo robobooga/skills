@@ -29,6 +29,7 @@ After installing, the skill is available as a slash command in Claude Code (e.g.
 | [deep-dive](productivity/deep-dive/) | productivity | Interview the user about their current task to surface goals, assumptions, and risks — building a clear shared plan before diving in. |
 | [explain-simply](productivity/explain-simply/) | productivity | Explain any document, concept, or text in plain everyday language with analogies — no background knowledge required. |
 | [ingest-llm-wiki](productivity/ingest-llm-wiki/) | productivity | Ingest a raw source file (PDF, transcript, article) into a structured personal wiki with concept, principle, and topic pages. |
+| [llm-council](productivity/llm-council/) | productivity | Pressure-test a decision, plan, or project with six independent advisors who answer separately, peer-review each other anonymously, then get synthesized into one verdict by a chairman. |
 | [summarize](productivity/summarize/) | productivity | Summarize the current session into a structured handoff document for resuming later or passing to another LLM. |
 
 ## License
